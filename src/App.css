@@ -29,3 +29,10 @@
     border-radius: 20px;
     border: solid 10px #fff;
 }
+
+.fila{
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
